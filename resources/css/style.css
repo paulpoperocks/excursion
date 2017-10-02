@@ -23,3 +23,7 @@ p {
 	color: gray;
 	font-size: 21px;
 }
+
+.legal {
+	text-align: right;
+}
